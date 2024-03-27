@@ -21,7 +21,3 @@ Welcome to the Application Time Tracker repository! Are you curious about how mu
 **Contributing:**
 Contributions are welcome! Whether you want to add new features, fix bugs, or improve documentation, feel free to fork the repository, make your changes, and submit a pull request. Together, let's make application time tracking even more effective and efficient!
 
-**License:**
-This repository is licensed under the MIT License, granting you the freedom to use, modify, and distribute the code for both personal and commercial purposes. See the `LICENSE` file for more details.
-
-Start optimizing your productivity today with the Application Time Tracker! Happy tracking! 🚀
